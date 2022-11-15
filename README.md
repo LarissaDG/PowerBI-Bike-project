@@ -1,1 +1,3 @@
 # PowerBI-Bike-project
+
+Power BI project that shows three different data visualizations. The data used in this project was downloaded from Kaggle and is about a Bike borrow app that operationalized its activities in Brasília. The first map shows the stations and locations in Brasília where you could take or leave a borrowed bike and the heatmaps show the places people most use to do these activities respectively. Vibrant colors like red and orange mean more people using the location and greener means least people. 
